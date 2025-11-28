@@ -1,4 +1,4 @@
-<p align="left">Linux Core</p>
+<p align="left">Linux Skills</p>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Web Programming</p>
+<p align="left">Web Development</p>
 
 ###
 
